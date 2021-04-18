@@ -1,0 +1,25 @@
+{
+  "name": "jnt-resi-extrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jntExtrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/JNT-Resi-Extrap.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/JNT-Resi-Extrap/issues"
+  },
+  "homepage": "https://github.com/cdw1p/JNT-Resi-Extrap#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.6",
+    "colors": "^1.4.0",
+    "fs-extra": "^9.1.0"
+  }
+}
